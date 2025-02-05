@@ -2,6 +2,7 @@ package chap03;
 
 import java.util.Scanner;
 
+//SeqSearch
 public class pratice01 {
     static int sequenceSearch(int[] numbers, int n, int target){
         int i = 0;
